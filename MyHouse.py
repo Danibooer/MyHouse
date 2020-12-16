@@ -1,0 +1,6 @@
+print("    x")
+print("   xxx")
+print("  xxxxx")
+print("  |   |")
+print("  |   |")
+print("  _____")
